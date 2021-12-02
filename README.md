@@ -13,4 +13,5 @@ I am Ankit Kumar Singh.I am doing B.E degree from chandigarh university.I want t
 
   <h2>Find me around Web</h2>
   -Sharing update on Linkedin <a href="https://www.linkedin.com/in/ankit-singh-b71a40192">@Linkedin</a>
+ <br>
   -Sharing Industrial Training on Internshala <a href="https://trainings.internshala.com/s/v/59935/98a85829">@Internshala</a>
