@@ -1,15 +1,16 @@
 ### Hi Ankit kumar singh 👋
 
-<!--
-**asgaddi07/asgaddi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Ankit Kumar Singh.I am doing B.E degree from chandigarh university.I want to becomes software developer.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working as student and doing B.E(CSE) degree from chandigarh university.
-- 🌱 I’m currently learning java.
-- 👯 I’m looking for software developer job profile.
-- 💬 Ask me about java.
-- 📫 How to reach me: ankitsingh.mahthan07@gmail.com.
-- 😄 Pronouns: joke.
+- 🔭 I’m currently working as student and doing <b>B.E(CSE)<b> degree from chandigarh university.
+- 🌱 I’m currently learning more about <b>Full Stack Java Developer</b>.
+ - 👯 I’m looking for <b>software developer</b> job profile and help with <b>Open Source Development</b>.
+- 💬 Ask me about java,database.
+- 📫 How to reach me: ankitsingh.mahthan07@gmail.com
+- 😄 Pronouns: He/His.
 - ⚡ Fun fact: coffee<3.
 -->
+
+  <h2>Find me around Web</h2>
+  -Sharing update on Linkedin <a href="https://www.linkedin.com/in/ankit-singh-b71a40192">@Linkedin</a>
+  
