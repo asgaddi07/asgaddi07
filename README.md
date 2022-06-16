@@ -6,32 +6,11 @@
 <h2>Software Developer with good problem solving, leadership and creative skills.<br>
 Always looking for learn new skills and technology.</h2>
 
-                    
-                  
-                    
-                        <h1>HOBBY AND INTEREST</h1>
-                        <div class="hobbylist">
-                        <ul>  
-                            <li>Cricket</li>  
-                            <li>Chess</li>  
-                            <li>Sudoku</li>  
-                            <li>Software</li>
-                            <li>Codeing</li>
-                            <li>Explore Things</li> 
-                            <li>Reading</li>  
-                            <li>Bussiness</li>  
-                            <li>Yoga</li>   
-                        </ul> 
-                    </div>
-                    <div class="personalDetail">
-                        <h1>PERSONAL DETAILS</h1>
-                        <div class="contactMe">
-                            <h3>Contact Me</h3>
-                            <ul>
-                                <li><a href="https://www.github.com/asgaddi07" target="_blank">GitHub</a></li>
-                                <li><a href="https:www.linkedin.com/in/asgaddi07" target="_blank">Linkdln</a></li> 
-                            </ul>
-                        </div>
+<!-- Hobby and Interset -->                                        |                  <!-- Details -->
+<h3>HOBBY AND INTEREST</h3>                                        |                  Mother’s Name:Baby Devi
+Cricket |Chess |Sudoku | Explore Things |Software                  |                  Father”s Name:Anil Singh
+
+
                         <div class="details">
                             <h3>Details</h3>
                             <ul>  
