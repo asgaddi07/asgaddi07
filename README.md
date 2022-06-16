@@ -69,7 +69,7 @@
                       
 <h3>CERTIFICATION</h3>
 <a href="https://drive.google.com/file/d/1j3iRX5Wm18Z6F8uYxVeXfin4iC5wtAA7/view?usp=sharing">Full-Stack Development Course, Kodnest.</a><br>
-<a href="https://drive.google.com/file/d/1DklkZsWp7qzcwY_YBN1C56MKWs7N14pu/view?usp=sharing">DSA Certification, Chandigarh University.</a><br>
+<a href="https://drive.google.com/file/d/1DklkZsWp7qzcwY_YBN1C56MKWs7N14pu/view?usp=sharing">Problem Solving With Data Structures & Algorithms, Chandigarh University.</a><br>
 <a href="https://coursera.org/share/b6c30435485499527340cb7df8a9e141">Programming Foundations with JavaScript, HTML and CSS, Coursera.</a><br>
 <a href="https://trainings.internshala.com/s/v/59935/98a85829">Git and GitHub, Internsala.</a>
  
