@@ -6,10 +6,12 @@
 <h2>Software Developer with good problem solving, leadership and creative skills.<br>
 Always looking for learn new skills and technology.</h2>
 
-<!-- Hobby and Interset -->                                        |                  <!-- Details -->
-<h3>HOBBY AND INTEREST</h3>                                        |                  Mother’s Name:Baby Devi
-Cricket |Chess |Sudoku | Explore Things |Software                  |                  Father”s Name:Anil Singh
-
+<!-- Hobby and Interset -->                                         
+<h3>HOBBY AND INTEREST</h3>                                       
+Cricket |Chess |Sudoku | Explore Things |Software  <br>           
+Codeing | Reading |Bussiness |Yoga | Exercise 
+ 
+ 
 
                         <div class="details">
                             <h3>Details</h3>
