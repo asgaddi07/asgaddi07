@@ -8,8 +8,8 @@
 
  <!-- Hobby and Interset -->                                         
  <h3>HOBBY AND INTEREST</h3>                                       
- Cricket |Chess |Sudoku | Explore Things |Software  <br>           
- Codeing | Reading |Bussiness |Yoga | Exercise 
+ Cricket | Chess | Sudoku | Explore Things | Software<br>           
+ Codeing | Reading | Bussiness | Yoga | Exercise 
  
  <Personal Details>
  <h3>Personal Details</h3>
@@ -77,14 +77,14 @@
  <h3>Training</h3>
  <b>1. FULL STACK DEVELOPER,KODNEST.</b><br>
  <b>Duration: </b>6 months.<br>
- <b>>Completion: </b>21/09/2021.<br>
+ <b>Completion: </b>21/09/2021.<br>
  <a href="https://drive.google.com/file/d/1j3iRX5Wm18Z6F8uYxVeXfin4iC5wtAA7/view?usp=sharing">CERTIFICATION</a>
    
  <h3>Project</h3>
  <b>1. PORTFOLIO WEBSITE | WEB APPLICATION.</b><br>
  Personal portfolio website, Any people can visite the site.<br>
  And see the academic,skills,certification and etc.<br>
- <b>>Technology: </b>HTML,CSS,JavaScript,Firebase.<br>
+ <b>Technology: </b>HTML,CSS,JavaScript,Firebase.<br>
  <a href="https://github.com/asgaddi07/Portfolio-Ankit-Kumar-Singh-">GitHub Project Link.</a></li><br>
  
  <b>2. ECOMMERCE WEBSITE |WEB APPLICATION</b><br>
@@ -92,7 +92,7 @@
  And search their product for buying.<br>
  Order the productes.<br>
  The admin can add,edit,delete the product.<r>
- <b>>Technology: </b>HTML/JSP,CSS,JavaScript,BootStrap,Hibernate,Java,SQL.<br>
+ <b>Technology: </b>HTML/JSP,CSS,JavaScript,BootStrap,Hibernate,Java,SQL.<br>
  <a href="">GitHub Project Link.</a></li><br>
  
  <b>3. ELECTRIC BILLING SYSTEM |DESKTOP APPLICATION</b><br>
@@ -101,7 +101,7 @@
  And calculate bill according to meter reading.<br>
  Customer Pay the their bill from website.<br>
  And calculate bill according to meter reading<br>
- <b>>Technology: </b>Java Swing, MySql.<br>
+ <b>Technology: </b>Java Swing, MySql.<br>
  <a href="">GitHub Project Link.</a></li>
           
  
