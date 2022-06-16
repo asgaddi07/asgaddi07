@@ -21,7 +21,7 @@
  <b>Address:</b> Maniyaradih, Nabinagar, 
  <br> Aurangabad, BIHAR - 824301.<br>
  <a href="https://www.github.com/asgaddi07">GitHub</a><br>
- <a href="https:www.linkedin.com/in/asgaddi07">Linkdln</a>
+ <a href="https://www.linkedin.com/in/asgaddi07/">Linkdln</a>
  
 <!-- EDUCATION AND ACADEMIC -->
  <h2>EDUCATION AND ACADEMIC</h2>
