@@ -11,7 +11,21 @@ Always looking for learn new skills and technology.</h2>
 Cricket |Chess |Sudoku | Explore Things |Software  <br>           
 Codeing | Reading |Bussiness |Yoga | Exercise 
  
- 
+ <Personal Details>
+ <h3>Personal Details</h3>
+ <b>NAME:</b> Ankit Kumar Singh.<br>
+ <b>Mother's Name:</b> Baby Devi.<br>
+ <b>Father's Name:</b> Anil Singh.<br>
+ <b>D.O.B.:</b> 13-July-2001.<br>
+ <b>Languages Known:</b> English | Hindi.<br>
+ <b>Address:</b> Maniyaradih, Nabinagar, 
+      <br> Aurangabad, BIHAR - 824301.
+                        
+                                  
+                                 
+                                  
+                                <li><b>Address:</b> Maniyaradih, Nabinagar, 
+                                    Aurangabad, BIHAR - 824301.</li> 
 
                         <div class="details">
                             <h3>Details</h3>
