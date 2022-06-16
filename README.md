@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="eng">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ankit Kumar Singh |Software Developer |Full Stack Developer |Programmer</title>
-    <link rel="stylesheet" href="/styles.css">
-</head>
-
+<b>Ankit Kumar Singh |Software Developer |Full Stack Developer |Programmer</b>
 <body>
     <div class="container">
         <div class="sidebar sidebarGo">
