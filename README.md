@@ -43,7 +43,7 @@
  <b>Session:</b> 2016-2017<br>
  <b>CGPA/Percentage:</b> 9.8cgpa(93.1%) .
                  
-<h2>EXTRA CURRICULAR & CO-CURRICULAR ACTIVITY & ACHIEVEMENTS<\h2>
+<h3>EXTRA CURRICULAR & CO-CURRICULAR ACTIVITY & ACHIEVEMENTS<\h3><br>
  <b>1.</b> CodeChef 3-star.<br>
  <b>2.</b> DSA Certification from Chandigarh University.<br>
  <b>3.</b> Participated in Live Codeing Contests like codechef,etc.
