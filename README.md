@@ -35,7 +35,7 @@
  <b>Board:</b> CBSE.<br>
  <b>Stream:</b> Physics, Chemistry , Mathematics.<br>
  <b>School:</b> D.A.V Public School, Sector-04, Bokaro Stell City, JHARKHAND, 827004.<br>        
- <b>Session:</b> 2018-2019<br>
+ <b>Session:</b> 2017-2019<br>
  <b>CGPA/Percentage:</b> 62% .
 
  <h3>MATRICULATION</h3>
