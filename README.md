@@ -1,14 +1,9 @@
- <b style="font-size:50px">Hii, I'm</b>
-                    <div class="name">Ankit kumar Singh</div>
-                    <div class="about">Software developer</div>
-                    <div class="moreabout">
-                        Software Developer with good problem solving, leadership and creative skills.<br>
-                        Always looking for learn new skills and technology.
-                    </div>
-                    <div class="buttons">
-                        <a href="/cv/Ankit Kumar Singh(Resume).pdf" download><button class="btn">Download cv</button></a>
-                        <a href="/contactMe.html"><button class="btn">Contact us</button></a>
-                    </div>
+ <h1>Hii, I'm</h1>
+ <h2>Ankit kumar Singh</h2>
+ <h3>Software Developer</h3>
+ <h4> Software Developer with good problem solving, leadership and creative skills.<br>
+                    
+                  
                     <div class="hobbyAndInterest"> 
                         <h1>HOBBY AND INTEREST</h1>
                         <div class="hobbylist">
