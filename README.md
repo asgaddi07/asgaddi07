@@ -75,7 +75,7 @@
 <!-- PROJRCT AND TRAINING -->
  <h2> PROJRCT AND TRAINING</h2>
  <h3>Training</h3>
- <b>1. FULL STACK DEVELOPER,KODNEST.</b><br>
+ <b>1. FULL STACK DEVELOPER, KODNEST.</b><br>
  <b>Duration: </b>6 months.<br>
  <b>Completion: </b>21/09/2021.<br>
  <a href="https://drive.google.com/file/d/1j3iRX5Wm18Z6F8uYxVeXfin4iC5wtAA7/view?usp=sharing">CERTIFICATION</a>
