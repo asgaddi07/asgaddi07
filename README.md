@@ -68,10 +68,10 @@
 <b>6.</b> Strategic Thinker/Able to work in a team/Focussed at work.
                       
 <h3>CERTIFICATION</h3>
-<a href="https://drive.google.com/file/d/1j3iRX5Wm18Z6F8uYxVeXfin4iC5wtAA7/view?usp=sharing">Full-Stack Development Certification in 2021, Kodnest.</a><br>
+<a href="https://drive.google.com/file/d/1j3iRX5Wm18Z6F8uYxVeXfin4iC5wtAA7/view?usp=sharing">Full-Stack Development Course, Kodnest.</a><br>
 <a href="https://drive.google.com/file/d/1DklkZsWp7qzcwY_YBN1C56MKWs7N14pu/view?usp=sharing">DSA Certification in 2022, Chandigarh University.</a><br>
-<a href="https://coursera.org/share/392421c249bcaac26470b2f197875ca9">Programming Foundations with JavaScript, HTML and CSS, Coursera.</a><br>
-<a href="https://drive.google.com/file/d/1wBmHByIM0V-TpFRa5AGRmNdGrgL2e8L_/view?usp=sharing">Git and GitHub, Internsala.</a>
+<a href="https://coursera.org/share/b6c30435485499527340cb7df8a9e141">Programming Foundations with JavaScript, HTML and CSS, Coursera.</a><br>
+<a href="https://trainings.internshala.com/s/v/59935/98a85829">Git and GitHub, Internsala.</a>
  
 <!-- PROJRCT AND TRAINING -->
  <h2> PROJRCT AND TRAINING</h2>
