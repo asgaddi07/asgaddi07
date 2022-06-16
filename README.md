@@ -19,36 +19,5 @@ Codeing | Reading |Bussiness |Yoga | Exercise
  <b>D.O.B.:</b> 13-July-2001.<br>
  <b>Languages Known:</b> English | Hindi.<br>
  <b>Address:</b> Maniyaradih, Nabinagar, 
- <br> Aurangabad, BIHAR - 824301. 
-                        
-                                  
-                                 
-                                  
-                                <li><b>Address:</b> Maniyaradih, Nabinagar, 
-                                    Aurangabad, BIHAR - 824301.</li> 
-
-                        <div class="details">
-                            <h3>Details</h3>
-                            <ul>  
-                                <li><b>NAME:</b> Ankit Kumar Singh</li>  
-                                <li><b>Mother's Name:</b> Baby Devi</li>  
-                                <li><b>Father's Name:</b> Anil Singh</li>  
-                                <li><b>D.O.B.:</b> 13-July-2001</li> 
-                                <li><b>Languages Known:</b> English | Hindi</li>  
-                                <li><b>Address:</b> Maniyaradih, Nabinagar, 
-                                    Aurangabad, BIHAR - 824301.</li> 
-                            </ul> 
-                        </div>
-                    </div>
-                    </div>
-                </div>
-                <div class="devpic">
-                    <img src="/image/me.jpg" alt="AnkitSingh">
-                </div>
-            </div>
-            <script src="/index.js"></script>     
-        </div>
-    </div>
-
-</body>
-</html>
+ <br> Aurangabad, BIHAR - 824301.<br>
+ <a href="https://www.github.com/asgaddi07" target="_blank">GitHub</a>
