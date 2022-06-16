@@ -13,7 +13,7 @@
  
  <Personal Details>
  <h3>Personal Details</h3>
- <b>NAME:</b> Ankit Kumar Singh.<br>
+ <b>Name:</b> Ankit Kumar Singh.<br>
  <b>Mother's Name:</b> Baby Devi.<br>
  <b>Father's Name:</b> Anil Singh.<br>
  <b>D.O.B.:</b> 13-July-2001.<br>
