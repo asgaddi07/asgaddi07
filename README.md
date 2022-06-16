@@ -1,10 +1,10 @@
- <div style="text-color:red;">
+<!--  Brief introduction. -->
  <h1>Hii, I'm<br>
  Ankit kumar Singh.</h1><br>
- <b>Software Developer</b><br>
- <h4>Software Developer with good problem solving, leadership and creative skills.<br>
- Always looking for learn new skills and technology.</h4>
- </div>
+<h2>Software Developer</b> 
+  >Software Developer with good problem solving, leadership and creative skills.<br>
+ Always looking for learn new skills and technology.</h2>
+
                     
                   
                     
