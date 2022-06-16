@@ -1,27 +1,4 @@
-<b>Ankit Kumar Singh |Software Developer |Full Stack Developer |Programmer</b>
-<body>
-    <div class="container">
-        <div class="sidebar sidebarGo">
-            <nav>
-                <ul>
-                    <li><a href="/">Home</a></li>
-
-<li><a href="/educationAndAcademic.html">Education and Academic</a></li>
-<li><a href="/skillAndCertification.html">Skills and Certification</a></li>
-<li><a href="/projectAndTraining.html">Project and Training</a></li>
-<li><a href="/contactMe.html">Contact Me</a></li>
-
-                </ul>
-            </nav>
-        </div>
-        <div class="main">
-            <div class="hamburger">
-                <img class="ham" src="/image/ham.png" alt="" width="26px">
-                <img class="cross" src="/image/cross.png" alt="" width="26px">
-            </div>
-            <div class="infoContainer">
-                <div class="devInfo">
-                    <div class="hello">Hii, I'm</div>
+ <b style="font-size:50px">Hii, I'm</b>
                     <div class="name">Ankit kumar Singh</div>
                     <div class="about">Software developer</div>
                     <div class="moreabout">
