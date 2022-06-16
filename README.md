@@ -1,6 +1,6 @@
  <div>
- <h1>Hii, I'm</h1><br>
- <h2>Ankit kumar Singh.</h2><br>
+ <h1>Hii, I'm<br>
+ Ankit kumar Singh.</h1><br>
  <h3>Software Developer</h3><br>
  <h4>Software Developer with good problem solving, leadership and creative skills.<br>
  Always looking for learn new skills and technology.</h4>
