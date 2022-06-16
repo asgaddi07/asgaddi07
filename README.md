@@ -33,13 +33,14 @@
 
  <h3>INTERMEDIATE</h3>
  <b>Board:</b> CBSE.<br>
- <b>School:</b> D.A.V Public School, Nabinagar, Aurangabad, BIHAR, 824301.<br>
+ <b>Stream:</b> Physics, Chemistry , Mathematics.<br>
+ <b>School:</b> D.A.V Public School, Sector-04, Bokaro Stell City, JHARKHAND, 827004.<br>        
  <b>Session:</b> 2018-2019<br>
  <b>CGPA/Percentage:</b> 62% .
 
  <h3>MATRICULATION</h3>
  <b>Board:</b> CBSE.<br>
- <b>School:</b> D.A.V Public School, Sector-04, Bokaro Stell City, JHARKHAND, 827004.<br>
+ <b>School:</b> D.A.V Public School, Nabinagar, Aurangabad, BIHAR, 824301.<br>
  <b>Session:</b> 2016-2017<br>
  <b>CGPA/Percentage:</b> 9.8cgpa(93.1%) .
                  
