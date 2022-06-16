@@ -29,7 +29,7 @@
  <b>Degree:</b> Bachelors in Computer Science Engineering.<br>
  <b>University/College:</b> Chandigarh University, Gharuan, Mohali, PUNJAB, 140413.<br>
  <b>Session:</b> 2019-2023.<br>
-<b>CGPA/Percentage:</b> 6.77 .
+<b>CGPA/Percentage:</b> 6.77 CGPA.
 
  <h3>INTERMEDIATE</h3>
  <b>Board:</b> CBSE.<br>
@@ -42,7 +42,7 @@
  <b>Board:</b> CBSE.<br>
  <b>School:</b> D.A.V Public School, Nabinagar, Aurangabad, BIHAR, 824301.<br>
  <b>Session:</b> 2016-2017<br>
- <b>CGPA/Percentage:</b> 9.8cgpa(93.1%) .
+ <b>CGPA/Percentage:</b> 9.8 CGPA(93.1%) .
                  
 <h3>EXTRA CURRICULAR & CO-CURRICULAR ACTIVITY & ACHIEVEMENTS</h3>
  <b>1.</b> CodeChef 3-star.<br>
