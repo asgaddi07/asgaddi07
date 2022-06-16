@@ -1,4 +1,4 @@
- <div>
+ <div style="text-color:red;">
  <h1>Hii, I'm<br>
  Ankit kumar Singh.</h1><br>
  <b>Software Developer</b><br>
