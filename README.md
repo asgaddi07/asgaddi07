@@ -93,7 +93,7 @@
  User can login/create account.<br>
  And search their product for buying.<br>
  Order the productes.<br>
- The admin can add,edit,delete the product.<r>
+ The admin can add,edit,delete the product.<br>
  <b>Technology: </b>HTML/JSP,CSS,JavaScript,BootStrap,Hibernate,Java,SQL.<br>
  <a href="">GitHub Project Link.</a></li><br>
  
