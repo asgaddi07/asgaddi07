@@ -43,12 +43,51 @@
  <b>Session:</b> 2016-2017<br>
  <b>CGPA/Percentage:</b> 9.8cgpa(93.1%) .
                  
-<h3>EXTRA CURRICULAR & CO-CURRICULAR ACTIVITY & ACHIEVEMENTS<\h3><br>
+<h3>EXTRA CURRICULAR & CO-CURRICULAR ACTIVITY & ACHIEVEMENTS</h3><br>
  <b>1.</b> CodeChef 3-star.<br>
  <b>2.</b> DSA Certification from Chandigarh University.<br>
  <b>3.</b> Participated in Live Codeing Contests like codechef,etc.
 
 
+ 
+ 
+   <div class="technicalSkills">
+
+                    <ul>
+                        <h1>TECHNICAL SKILLS</h1>
+                        <li><img src="/image/java.jpg" alt="" width="65px"> java</li>
+                        <li><img src="/image/c++.png" alt="" width="65px"> C++</li>
+                        <li><img src="/image/dsa.png" alt="" width="65px"> DSA</li>
+                        <li><img src="/image/html,css,js.png" alt="" width="85px"> HTML, CSS, JavaScript</li>
+                        <li><img src="/image/sql.png" alt="" width="65px"> SQL</li>
+                        <li><img src="/image/github.png" alt="" width="65px"> GitHub</li>
+                    </ul>
+                </div>
+                <div class="interpersonalSkills">
+                    <ul>
+                        <h1>PERSONAL SKILLS</h1>
+                        <li> Team Leadership</li>
+                        <li> Management & Coordination</li>
+                        <li> Decision Making</li>
+                        <li>Good collaboration and co-ordination skills</li>
+                        <li>Good at networking and interpersonal skills</li>
+                        <li>Time Management and dependability/Able to work with deadlines</li>
+                        <li>Strategic Thinker/Able to work in a team/Focussed at work</li>
+                    </ul>
+                    <ul>
+                        <h1>CERTIFICATION</h1>
+                        <li><a href="https://drive.google.com/file/d/1j3iRX5Wm18Z6F8uYxVeXfin4iC5wtAA7/view?usp=sharing"
+                                target="_blank">Full-Stack Development Certification in 2021, Kodnest.</a></li>
+                        <li><a href="https://drive.google.com/file/d/1DklkZsWp7qzcwY_YBN1C56MKWs7N14pu/view?usp=sharing"
+                                target="_blank"> DSA Certification in 2022, Chandigarh University.</a>
+                        </li>
+                        <li><a href="https://coursera.org/share/392421c249bcaac26470b2f197875ca9"
+                                target="_blank">Programming Foundations with JavaScript, HTML and CSS, Coursera.</a>
+                        </li>
+                        <li><a href="https://drive.google.com/file/d/1wBmHByIM0V-TpFRa5AGRmNdGrgL2e8L_/view?usp=sharing"
+                                target="_blank">Git and GitHub, Internsala.</a></li>
+                    </ul>
+                </div>
  
  
  
