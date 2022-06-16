@@ -1,8 +1,9 @@
 <!--  Brief introduction. -->
- <h1>Hii, I'm<br>
- Ankit kumar Singh.</h1><br>
-<h2><b>Software Developer</b></br> 
-Software Developer with good problem solving, leadership and creative skills.<br>
+ <h1>Hii, I'm,<br>
+ Ankit kumar Singh.<br>
+ Software Developer and Programmer.
+</h1>
+<h2>Software Developer with good problem solving, leadership and creative skills.<br>
 Always looking for learn new skills and technology.</h2>
 
                     
