@@ -1,7 +1,7 @@
- <h1>Hii, I'm<br>
- Ankit kumar Singh.<br>
- Software Developer<br>
- Software Developer with good problem solving, leadership and creative skills.<br>
+ <h1>Hii, I'm</h1>
+ <h2>Ankit kumar Singh.</h2>
+ <h3>Software Developer</h3>
+ <h4>Software Developer with good problem solving, leadership and creative skills.<br>
  Always looking for learn new skills and technology.</h4>
                     
                   
