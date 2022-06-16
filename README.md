@@ -19,7 +19,7 @@ Codeing | Reading |Bussiness |Yoga | Exercise
  <b>D.O.B.:</b> 13-July-2001.<br>
  <b>Languages Known:</b> English | Hindi.<br>
  <b>Address:</b> Maniyaradih, Nabinagar, 
- <br><pre>     Aurangabad, BIHAR - 824301.</pre>
+ <br><pre>Aurangabad, BIHAR - 824301.</pre>
                         
                                   
                                  
