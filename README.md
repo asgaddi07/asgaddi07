@@ -8,8 +8,8 @@
 
  <!-- Hobby and Interset -->                                         
  <h3>HOBBY AND INTEREST</h3>                                       
- Cricket | Chess | Sudoku | Explore Things | Software<br>           
- Codeing | Reading | Bussiness | Yoga | Exercise 
+  Chess | Sudoku | Explore Things | Software |Codeing.<br>           
+  Reading | Bussiness | Yoga | Gym | Karv Maga. 
  
  <Personal Details>
  <h3>Personal Details</h3>
