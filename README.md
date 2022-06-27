@@ -8,8 +8,8 @@
 
  <!-- Hobby and Interset -->                                         
  <h3>HOBBY AND INTEREST</h3>                                       
-  Chess | Sudoku | Explore Things | Software |Codeing.<br>           
-  Reading | Bussiness | Yoga | Gym | Karv Maga. 
+  Chess | Sudoku | Explore Things | Software .<br>           
+  Reading | Codeing| Bussiness | Yoga. 
  
  <Personal Details>
  <h3>Personal Details</h3>
@@ -53,12 +53,13 @@
 <!-- SKILLS And CERTIFICATION -->
 <h2> SKILLS And CERTIFICATION</h2>
 <h3>TECHNICAL SKILLS</h3>
-<b>1.</b> Java.<br>
-<b>2.</b> C++.<br>
-<b>3.</b> DSA.<br>
-<b>1.</b> HTML,CSS,JavaScript.<br>
-<b>2.</b> SQL.<br>
-<b>3.</b> GitHub.<br>
+<b>1.</b> Java.(Rating:-6/10)<br>
+<b>2.</b> C++.(Rating:-5/10)<br>
+<b>3.</b> DSA.(Rating:-5/10)<br>
+<b>4.</b> HTML,CSS,JavaScript.(Rating:-5/10)<br>
+<b>5.</b> SQL.(Rating:-4/10)<br>
+<b>6.</b> GitHub.(Basic)<br>
+<b>7.</b> Hibernate.(Basic)<br>
  
 <h3> Personal Skills</h3>
 <b>1.</b> Team Leadership.<br>
@@ -95,16 +96,16 @@
  And search their product for buying.<br>
  Order the productes.<br>
  The admin can add,edit,delete the product.<br>
- <b>Technology: </b>HTML/JSP,CSS,JavaScript,BootStrap,Hibernate,Java,SQL.<br>
- <a href="">GitHub Project Link.</a></li><br>
+ <b>Technology: </b>HTML/JSP,CSS,JavaScript,BootStrap,Hibernate,Java,MySql.<br>
+ <a href="https://github.com/asgaddi07/Ecommerce">GitHub Project Link.</a></li><br>
  
- <b>3. ELECTRIC BILLING SYSTEM |DESKTOP APPLICATION</b><br>
+ <b>3. ELECTRIC BILLING SYSTEM </b><br>
  The admin, add the customer and the customer sign up.<br>
  After admin save details of customer.<br>
  And calculate bill according to meter reading.<br>
  Customer Pay the their bill from website.<br>
  And calculate bill according to meter reading<br>
- <b>Technology: </b>Java Swing, MySql.<br>
+ <b>Technology: </b>Java, Sql.<br>
  <a href="">GitHub Project Link.</a></li>
           
  
