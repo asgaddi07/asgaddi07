@@ -8,8 +8,8 @@
 
  <!-- Hobby and Interset -->                                         
  <h3>HOBBY AND INTEREST</h3>                                       
-  Chess | Sudoku | Explore Things | Software .<br>           
-  Reading | Codeing| Bussiness | Yoga. 
+    Explore Things | Software .<br>           
+  Reading | Yoga | Sport. 
  
  <Personal Details>
  <h3>Personal Details</h3>
@@ -18,11 +18,11 @@
  <b>Father's Name:</b> Anil Singh.<br>
  <b>D.O.B.:</b> 13-July-2001.<br>
  <b>Languages Known:</b> English | Hindi.<br>
- <b>Address:</b> Maniyaradih, Nabinagar, 
- <br> Aurangabad, BIHAR - 824301.<br>
+ <b>Address:</b>   Nabinagar, Aurangabad, BIHAR - 824301.<br>
+ <b>Email:</><a href="mailto:ankit_singh@outlook.in" target="_blank">ankit_singh@outlook.in</a></h3>
  <a href="https://www.github.com/asgaddi07">GitHub</a><br>
  <a href="https://www.linkedin.com/in/asgaddi07/">Linkdln</a><br>
- <a href="https://asgaddi07.github.io/Ankit-Kumar-Singh-Portfolio-/">Web</a>
+ <a href="https://asgaddi07.github.io/ankitSingh/">Web</a>
  
 <!-- EDUCATION AND ACADEMIC -->
  <h2>EDUCATION AND ACADEMIC</h2>
@@ -89,7 +89,7 @@
  Personal portfolio website, Any people can visite the site.<br>
  And see the academic,skills,certification and etc.<br>
  <b>Technology: </b>HTML,CSS,JavaScript,Firebase.<br>
- <a href="https://github.com/asgaddi07/Portfolio-Ankit-Kumar-Singh-">GitHub Project Link.</a></li><br>
+ <a href="https://github.com/asgaddi07/Portfolio-ankitSingh-">GitHub Project Link.</a></li><br>
  
  <b>2. ECOMMERCE WEBSITE |WEB APPLICATION</b><br>
  User can login/create account.<br>
