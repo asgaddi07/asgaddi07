@@ -53,13 +53,12 @@
 <!-- SKILLS And CERTIFICATION -->
 <h2> SKILLS And CERTIFICATION</h2>
 <h3>TECHNICAL SKILLS</h3>
-<b>1.</b> Java.(Rating:-6/10)<br>
-<b>2.</b> C++.(Rating:-5/10)<br>
-<b>3.</b> DSA.(Rating:-5/10)<br>
-<b>4.</b> HTML,CSS,JavaScript.(Rating:-5/10)<br>
-<b>5.</b> SQL.(Rating:-4/10)<br>
-<b>6.</b> GitHub.(Basic)<br>
-<b>7.</b> Hibernate.(Basic)<br>
+<b>1.</b> Java/C++/C.<br>
+<b>4.</b> HTML/JSP,CSS,JavaScript.<br>
+<b>3.</b> DSA. <br>
+<b>5.</b> SQL<br>
+<b>6.</b> GitHub<br>
+<b>7.</b> Hibernate.<br>
  
 <h3> Personal Skills</h3>
 <b>1.</b> Team Leadership.<br>
@@ -89,7 +88,7 @@
  Personal portfolio website, Any people can visite the site.<br>
  And see the academic,skills,certification and etc.<br>
  <b>Technology: </b>HTML,CSS,JavaScript,Firebase.<br>
- <a href="https://github.com/asgaddi07/Portfolio-ankitSingh-">GitHub Project Link.</a></li><br>
+ <a href="https://github.com/asgaddi07/ankitSingh">GitHub Project Link.</a></li><br>
  
  <b>2. ECOMMERCE WEBSITE |WEB APPLICATION</b><br>
  User can login/create account.<br>
