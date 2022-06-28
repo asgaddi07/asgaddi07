@@ -20,9 +20,9 @@
  <b>Languages Known:</b> English | Hindi.<br>
  <b>Address:</b>   Nabinagar, Aurangabad, BIHAR - 824301.<br>
  <a href="mailto:ankit_singh@outlook.in" target="_blank">ankit_singh@outlook.in</a><br>
- <a href="https://www.github.com/asgaddi07">GitHub</a><br>
- <a href="https://www.linkedin.com/in/asgaddi07/">Linkdln</a><br>
- <a href="https://asgaddi07.github.io/ankitSingh/">Web</a>
+ <a href="https://www.github.com/asgaddi07" target="_blank">GitHub</a><br>
+ <a href="https://www.linkedin.com/in/asgaddi07/" target="_blank">Linkdln</a><br>
+ <a href="https://asgaddi07.github.io/ankitSingh/" target="_blank">Web</a>
  
 <!-- EDUCATION AND ACADEMIC -->
  <h2>EDUCATION AND ACADEMIC</h2>
