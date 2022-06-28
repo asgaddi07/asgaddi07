@@ -19,7 +19,7 @@
  <b>D.O.B.:</b> 13-July-2001.<br>
  <b>Languages Known:</b> English | Hindi.<br>
  <b>Address:</b>   Nabinagar, Aurangabad, BIHAR - 824301.<br>
- <b>Email:</><a href="mailto:ankit_singh@outlook.in" target="_blank">ankit_singh@outlook.in</a></h3>
+ <a href="mailto:ankit_singh@outlook.in" target="_blank">ankit_singh@outlook.in</a><br>
  <a href="https://www.github.com/asgaddi07">GitHub</a><br>
  <a href="https://www.linkedin.com/in/asgaddi07/">Linkdln</a><br>
  <a href="https://asgaddi07.github.io/ankitSingh/">Web</a>
