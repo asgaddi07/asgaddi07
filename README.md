@@ -84,19 +84,19 @@
  <a href="https://drive.google.com/file/d/1j3iRX5Wm18Z6F8uYxVeXfin4iC5wtAA7/view?usp=sharing">CERTIFICATION</a>
    
  <h3>Project</h3>
- <b>1. PORTFOLIO WEBSITE | WEB APPLICATION.</b><br>
- Personal portfolio website, Any people can visite the site.<br>
- And see the academic,skills,certification and etc.<br>
- <b>Technology: </b>HTML,CSS,JavaScript,Firebase.<br>
- <a href="https://github.com/asgaddi07/ankitSingh">GitHub Project Link.</a></li><br>
- 
- <b>2. ECOMMERCE WEBSITE |WEB APPLICATION</b><br>
+  <b>1. ECOMMERCE WEBSITE |WEB APPLICATION</b> 
  User can login/create account.<br>
  And search their product for buying.<br>
  Order the productes.<br>
  The admin can add,edit,delete the product.<br>
  <b>Technology: </b>HTML/JSP,CSS,JavaScript,BootStrap,Hibernate,Java,MySql.<br>
  <a href="https://github.com/asgaddi07/Ecommerce">GitHub Project Link.</a></li><br>
+ 
+ <b>2. PORTFOLIO WEBSITE | WEB APPLICATION.</b><br>
+ Personal portfolio website, Any people can visite the site.<br>
+ And see the academic,skills,certification and etc.<br>
+ <b>Technology: </b>HTML,CSS,JavaScript,Firebase.<br>
+ <a href="https://github.com/asgaddi07/ankitSingh">GitHub Project Link.</a></li><br>
  
  <b>3. ELECTRIC BILLING SYSTEM </b><br>
  The admin, add the customer and the customer sign up.<br>
@@ -105,7 +105,7 @@
  Customer Pay the their bill from website.<br>
  And calculate bill according to meter reading<br>
  <b>Technology: </b>Java, Sql.<br>
- <a href="">GitHub Project Link.</a></li>
+
           
  
  
