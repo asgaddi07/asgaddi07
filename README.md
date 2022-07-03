@@ -49,7 +49,7 @@
 <h3>EXTRA CURRICULAR & CO-CURRICULAR ACTIVITY & ACHIEVEMENTS</h3>
 <!--  <b>1.</b> CodeChef 3-star.<br> -->
  <b>2.</b> DSA Certification from Chandigarh University.<br>
- <b>3.</b> Participated in Live Codeing Contests like codechef,etc.
+ <b>3.</b> Participated in Live Codeing Contests like codechef.
 
 <!-- SKILLS And CERTIFICATION -->
 <h2> SKILLS And CERTIFICATION</h2>
