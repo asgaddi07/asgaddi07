@@ -8,8 +8,9 @@
 
  <!-- Hobby and Interset -->                                         
  <h3>HOBBY AND INTEREST</h3>                                       
-    Explore Things | Software .<br>           
-  Reading | Yoga | Sport. 
+ Cricket | Chess | Explore Things |
+ Reading | Bussiness |Yoga | Software |
+ Coding | 
  
  <Personal Details>
  <h3>Personal Details</h3>
