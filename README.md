@@ -4,7 +4,7 @@
  Software Developer and Programmer.
  </h1>
  <h2>Software Developer with good problem solving, leadership and creative skills.<br>
- Always looking for learn new skills and technology.</h2>
+ Always looking to upgrade/learn new skills and technology.</h2>
 
  <!-- Hobby and Interset -->                                         
  <h3>HOBBY AND INTEREST</h3>                                       
