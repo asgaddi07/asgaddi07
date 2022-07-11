@@ -31,7 +31,7 @@
  <b>Degree:</b> Bachelors in Computer Science Engineering.<br>
  <b>University/College:</b> Chandigarh University, Gharuan, Mohali, PUNJAB, 140413.<br>
  <b>Session:</b> 2019-2023.<br>
-<b>CGPA/Percentage:</b> 6.77 CGPA.
+<b>CGPA/Percentage:</b> 6.96 CGPA.
 
  <h3>INTERMEDIATE</h3>
  <b>Board:</b> CBSE.<br>
