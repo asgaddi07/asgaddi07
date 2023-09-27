@@ -22,7 +22,7 @@
  <b>Address:</b>   Nabinagar, Aurangabad, BIHAR - 824301.<br>
  <a href="mailto:ankit_singh@outlook.in" target="_blank">ankit_singh@outlook.in</a><br>
  <a href="https://www.github.com/asgaddi07" target="_blank">GitHub</a><br>
- <a href="https://www.linkedin.com/in/asgaddi07/" target="_blank">Linkdln</a><br>
+ <a href="https://www.linkedin.com/in/gaddi108/" target="_blank">Linkdln</a><br>
  <a href="https://asgaddi07.github.io/ankitSingh/" target="_blank">Web</a>
  
 <!-- EDUCATION AND ACADEMIC -->
@@ -31,7 +31,7 @@
  <b>Degree:</b> Bachelors in Computer Science Engineering.<br>
  <b>University/College:</b> Chandigarh University, Gharuan, Mohali, PUNJAB, 140413.<br>
  <b>Session:</b> 2019-2023.<br>
-<b>CGPA/Percentage:</b> 6.96 CGPA.
+<b>CGPA/Percentage:</b> 7.05 CGPA.
 
  <h3>INTERMEDIATE</h3>
  <b>Board:</b> CBSE.<br>
